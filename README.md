@@ -1,4 +1,4 @@
-# Entrance Test - ReactJS
+# HAIBAZO_EntranceTest_React_ClearThePoints
 
 ## Start the app
 ```js
